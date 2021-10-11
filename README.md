@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aravindsharen5
+- 👋 Hi, I’m Aravind
 - 👀 I’m interested in programming, ml, ai, web design and development.
 
 <!---
